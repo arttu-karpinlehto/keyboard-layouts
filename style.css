@@ -1,4 +1,4 @@
-@font-face {
+font-face {
   font-family: 'Adam';
   src: local('cvadamkbd'), local('cvadamkbd.ttf'), url('https://arttu-karpinlehto.github.io/keyboard-layouts/fonts/cvadamkbd.ttf') format('truetype');
 }
