@@ -1,6 +1,6 @@
 @font-face {
-  font-family: 'Adam';
-  src: local('cvadamkbd'), local('cvadamkbd.ttf'), url('https://arttu-karpinlehto.github.io/keyboard-layouts/fonts/cvadamkbd.ttf') format('truetype');
+  font-family: 'CVAdamKBD';
+  src: local('CVAdamKbd'), local('CVAdamKbd.woff2'), url('https://arttu-karpinlehto.github.io/keyboard-layouts/fonts/CVAdamKbd.woff2') format('woff2');
 }
-.adam { font-family: 'Adam', sans-serif;}
+.adam { font-family: 'CVAdamKbd', sans-serif;}
 .coleco { font-size: 125%; font-variant: small-caps; }
