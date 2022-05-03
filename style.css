@@ -2,5 +2,11 @@
   font-family: 'CVAdamKBD';
   src: local('CVAdamKbd'), local('CVAdamKbd.woff2'), url('https://arttu-karpinlehto.github.io/keyboard-layouts/fonts/CVAdamKbd.woff2') format('woff2');
 }
-.adam { font-family: 'CVAdamKbd', sans-serif;}
+@font-face {
+  font-family: 'Canon';
+  src: local('Canon'), local('Canon.ttf'), url('https://arttu-karpinlehto.github.io/keyboard-layouts/fonts/Canon.ttf') format('truetype');
+}
+.adam { font-family: 'CVAdamKbd', sans-serif; }
 .coleco { font-size: 125%; font-variant: small-caps; }
+.canon { font-family: sans-serif; }
+.canonlogo { font-family: 'Canon', serif; }
